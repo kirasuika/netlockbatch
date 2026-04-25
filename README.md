@@ -18,3 +18,5 @@ and want to force traffic through one specific path with no guesswork.
 - Windows
 - Administrator privileges
 - PowerShell (for adapter enumeration)
+
+## Disclaimer AI Aided.
